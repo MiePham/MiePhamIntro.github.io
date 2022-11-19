@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+	<link rel="stylesheet" href="BS/css/bootstrap.css">
+	<link rel="stylesheet" href="BS/css/main.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+</head>
+
+<body>
+	<div class="container">
+		<div class="row g-3">
+			<div class="col-lg-3">
+				<div class="box1">Logo</div>
+			</div>
+			<div class="col-lg-9">
+				<div class="box1">Menu</div>
+			</div>
+			<div class="col-lg-12">
+				<div class="box2">Slider</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="box">1</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="box">2</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="box">3</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="box">4</div>
+			</div>
+			<div class="col-lg-7">
+				<div class="box2">Nd</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="box2">Pic</div>
+			</div>
+			<div class="col-lg-7">
+				<div class="box2">Nd2</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="box2">Pic2</div>
+			</div>
+			<div class="col-lg-7">
+				<div class="box2">Nd3</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="box2">Pic3</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="box2"></div>
+			</div>
+			<div class="col-lg-6">
+				<div class="box2"></div>
+			</div>
+			<div class="col-lg-11 col-sm-11">
+				<div class="box3"></div>
+			</div>
+			<div class="col-lg-1 col-sm-1">
+				<div class="box3"></div>
+			</div>
+		</div>
+	</div>
+	<script src="BS/js/bootstrap.bundle.js"></script>
+	<script src="BS/js/bootstrap.js"></script>
+</body>
+</html>
